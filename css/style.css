@@ -1,0 +1,13 @@
+body {
+    background-color: #808080;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    margin-bottom: 10px;
+}
+h1 {
+    color: aliceblue;
+}
+
